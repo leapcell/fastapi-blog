@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn[standard]
+markdown
+gunicorn
+leapcell
+python-dotenv
