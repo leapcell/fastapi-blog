@@ -1,6 +1,11 @@
+# FastAPI framework
 fastapi[all]
+
+# ASGI server for FastAPI
 uvicorn[standard]
+
+# Markdown parser
 markdown
-gunicorn
-leapcell
-python-dotenv
+
+# Front-matter parser for Markdown
+python-frontmatter
