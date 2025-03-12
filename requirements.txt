@@ -9,3 +9,4 @@ markdown
 
 # Front-matter parser for Markdown
 python-frontmatter
+python-multipart
